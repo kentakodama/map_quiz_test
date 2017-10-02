@@ -2,7 +2,7 @@
   "name": "map_quiz",
   "version": "1.0.0",
   "description": "This is for map_quiz",
-  "main": "index.js",
+  "main": "map_quiz.js",
   "dependencies": {
     "topojson-client": "^3.0.0"
   },
