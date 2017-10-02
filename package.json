@@ -1,0 +1,27 @@
+{
+  "name": "map_quiz",
+  "version": "1.0.0",
+  "description": "This is for map_quiz",
+  "main": "index.js",
+  "dependencies": {
+    "topojson-client": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kenta kodama",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentakodama/map_quiz_test.git"
+  },
+  "keywords": [
+    "map",
+    "quiz"
+  ],
+  "bugs": {
+    "url": "https://github.com/kentakodama/map_quiz_test/issues"
+  },
+  "homepage": "https://github.com/kentakodama/map_quiz_test#readme"
+}
